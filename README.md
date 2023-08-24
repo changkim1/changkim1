@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&animation=twinkling&color=gradient&height=300&section=header&text=Yeeeooonn&fontSize=90&fontAlign=65&fontAlignY=35&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&animation=twinkling&color=gradient&height=300&section=header&text=changkim1&fontSize=90&fontAlign=65&fontAlignY=35&rotate=20)
 
 <div align="center">
 
-### 👋Hi I'm Yeeeooonn.
+### 👋Hi I'm changkim1.
 
-#### My major is Software. I'm studying web development.
+#### My major is Deutsche. But I'm studying web development.
 
 <br>
 
